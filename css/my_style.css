@@ -1,0 +1,30 @@
+body{
+    background-image: url('../img/linear-gradient.png')
+}
+.form_login{
+    margin-top: 50px
+}
+.form_login_menu{
+    height: 60px;
+    background-color: #88bb3a;
+    padding-top: 15px;
+    border-bottom: green 1px solid
+}
+.form_login_menu strong{
+    color: white;
+    font-weight: bold;
+    font-size: 20px
+}
+.form_login_body{
+    height: 350px;
+    background-color: white;
+    padding: 50px
+}
+.form_login_footer{
+    margin-top: 20px
+}
+.form_login_footer img{
+    height: 40px;
+    width: 40px;
+    margin-left: 15px
+}
